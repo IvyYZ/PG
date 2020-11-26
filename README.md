@@ -1,7 +1,7 @@
 # PG
 
 ## Low-quality image pedestrian detection
-![Image]()
+![Image](https://s3.ax1x.com/2020/11/26/DwdauT.png)
 The Low-quality image pedestrian detection dataset 
 
 called Playground (PG) for low-quality image detection. Images of PG are shot by two different views of cameras, pedestrian images are taken at different periods, including day and night. There are a total of 5,752 images with 31,041 annotations. The average size of the pedestrian is 41*87 and the image size is 480*640. 

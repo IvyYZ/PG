@@ -10,6 +10,6 @@ Playground (PG) for low-quality image detection. Images of PG are shot by two di
 
 -google(https://drive.google.com/drive/folders/12Bn4FExI-tl6_LjXY-OzPHJsYf8AURrI?usp=sharing)
 
-The labeling format is .xml format, which is the same as the PASCAL VOC data set format. It can be easily trained and tested on common target detection algorithms (i.e. Faster R-CNN, YOLOv3, YOLOv4, etc.).
+The labeling format is .xml format, which is the same as the PASCAL VOC data set. It can be easily trained and tested on common target detection algorithms (i.e. Faster R-CNN, YOLOv3, YOLOv4, etc.).
 
 

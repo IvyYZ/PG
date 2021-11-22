@@ -15,3 +15,18 @@ Playground (PG) for low-quality image detection. Images of PG are shot by two di
 The labeling format is .xml format, which is the same as the PASCAL VOC data set. It can be easily trained and tested on common target detection algorithms (i.e. Faster R-CNN, YOLOv3, YOLOv4, etc.).
 
 
+## Citation
+If you use this method or this code in your research, please cite as:
+'''
+@article{jin2021pedestrian,
+  title={Pedestrian detection with super-resolution reconstruction for low-quality image},
+  author={Jin, Yi and Zhang, Yue and Cen, Yigang and Li, Yidong and Mladenovic, Vladimir and Voronin, Viacheslav},
+  journal={Pattern Recognition},
+  volume={115},
+  pages={107846},
+  year={2021},
+  publisher={Elsevier}
+}
+'''
+## License
+This code is released for academic research / non-commercial use only. If you wish to use for commercial purposes, please contact Shichao Kan by email 17112065@bjtu.edu.cn.

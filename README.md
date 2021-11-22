@@ -29,4 +29,4 @@ If you use this method or this code in your research, please cite as:
 }
 ```
 ## License
-This code is released for academic research / non-commercial use only. If you wish to use for commercial purposes, please contact Shichao Kan by email 17112065@bjtu.edu.cn.
+This code is released for academic research / non-commercial use only. If you wish to use for commercial purposes, please contact Yue Zhang by email 17112065@bjtu.edu.cn.
